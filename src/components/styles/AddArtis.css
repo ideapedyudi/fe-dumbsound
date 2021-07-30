@@ -66,7 +66,3 @@ input[type=number] {
     border-color: rgb(214, 214, 214) !important;
     padding-left: 8px !important;
 }
-
-.selectInput[name=type="Type"] {
-    color: rebeccapurple !important;
-}
