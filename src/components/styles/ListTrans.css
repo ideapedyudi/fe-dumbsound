@@ -1,0 +1,146 @@
+.NavbarTrans {
+    background-color: #1F1F1F !important;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.bgTrans {
+    background-color: #0e0e0e !important;
+    height: 100vh;
+    overflow: auto;
+}
+
+.thead {
+    background-color: #2B2B2B !important;
+    color: tomato !important;
+    font-size: 13px;
+}
+
+thead {
+    background-color: #2B2B2B !important;
+    color: tomato !important;
+    font-size: 13px;
+    border-color: none !important;
+}
+
+.thead:nth-child(even) {
+    background-color: #3A3A3A !important;
+}
+
+th {
+    padding: 20px !important;
+    border-color: #C4C4C4 !important;
+}
+
+td {
+    color: white;
+    padding: 20px !important;
+    border-color: #C4C4C4 !important;
+}
+
+.incom {
+    margin-top: -20px !important;
+    color: white ;
+    font-size: 20px;
+    margin-left: 55px;
+}
+
+.hr {
+    color: white !important;
+    margin-left: -15px !important;
+    margin-right: -15px !important;
+}
+
+.tableContainer {
+    display: flex !important;
+    flex-direction: column;
+    justify-content: center !important;
+    align-items: center !important;
+}
+
+.tables {
+    width: 90% !important;
+}
+
+.treven:nth-child(even) {
+    background-color: #2B2B2B !important;
+}
+
+.trheader {
+    background-color: #2B2B2B !important;
+}
+
+.Approved {
+    color: rgb(4, 191, 4);
+}
+
+.Cancel {
+    color: red;
+}
+
+.attachetrans {
+    width: 30px !important;
+    cursor: pointer;
+}
+
+.btnDropdown {
+    margin-top: -5px;
+}
+
+.btnDropdown:focus {
+    outline: none !important;
+    box-shadow: none !important;
+}
+
+.boxDropdown {
+    background-color: #3A3A3A !important;
+}
+
+.linkDropdown1{
+    color: rgb(0, 146, 71) !important;
+}
+
+.linkDropdown2 {
+    color: rgb(209, 0, 0) !important;
+}
+
+.linkDropdown1:hover {
+    background-color: rgb(65, 65, 65) !important;
+}
+
+.linkDropdown2:hover {
+    background-color: rgb(65, 65, 65) !important;
+}
+
+.buktiTrans {
+    max-width: 300px;
+}
+
+.modalBukti {
+    background-color: #2B2B2B !important;
+    border-radius: 5px;
+    margin-top: -130px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.dropdown-toggle::after {
+    display:none !important;
+}
+
+.iconDropdown {
+    color: #1C9CD2;
+    font-size: 25px;
+    margin-top: -10px;
+}
+
+.btn-tbl {
+    margin-left: 73%;
+    margin-top: -20px;
+    position: absolute;
+}
+
+.btn-tbl:focus {
+    outline: none !important;
+    box-shadow: none !important;
+}

@@ -1,0 +1,86 @@
+.modalLogin {
+    background-color: rgb(24, 24, 24);
+    width: 390px;
+    border-radius: 10px;
+    padding: 30px !important;
+}
+
+.modal-content {
+    width: 390px !important;
+    margin-top: 190px;
+    border-radius: 30px !important;
+    margin-left: 50px;
+}
+
+.inputLogin {
+    background: rgba(210, 210, 210, 0.25) !important;
+    color: white !important;
+}
+
+.inputGroup {
+    padding: 10px;
+}
+
+.inputLogin:focus {
+    background: rgba(210, 210, 210, 0.25) !important;
+    outline: none !important;
+    box-shadow: none !important;
+    border-color: white !important;
+}
+
+.btnLogins {
+    width: 100%;
+    background-color: #EE4622 !important;
+    border-radius: 5px;
+    border: none !important;
+    color: white !important;
+    font-weight: bold !important;
+}
+
+
+.btnLogins:focus {
+    outline: none !important;
+    box-shadow: none !important;
+}
+
+.modalRegister {
+    margin-top: -140px !important;
+}
+
+.message-notice {
+    margin-left: -70px !important;
+}
+
+.genderOption {
+    color: rgb(197, 197, 197) !important;
+}
+
+.loginend {
+    color: #B1B1B1;
+}
+
+
+.Reg {
+    color: rgb(192, 192, 192);
+    cursor: pointer;
+    font-weight: bold;
+}
+
+.Log {
+    color: white !important;
+    cursor: pointer;
+}
+
+.message-notice {
+    width: 330px;
+    margin-left: 1px !important;
+}
+
+.message-login  {
+    width: 330px;
+    margin-right: -20px !important;
+}
+
+.inputLogin::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+    color: #B1B1B1 !important;
+}

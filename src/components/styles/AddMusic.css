@@ -1,0 +1,154 @@
+.inputaddmusic {
+    background: rgba(210, 210, 210, 0.25) !important;
+    color: white !important;
+}
+
+.inputaddmusic:focus {
+    background: rgba(210, 210, 210, 0.25) !important;
+    outline: none !important;
+    box-shadow: none !important;
+    color: white !important;
+}
+
+.inputflex {
+    display: flex;
+}
+
+.thumbSong {
+    width: 100px !important;
+}
+
+.files {
+/* justify-content: center; */
+align-items: center !important;
+}
+
+.files > input[type='file'] {
+display: none
+}
+
+.files > label {
+    margin-top: -20px;
+    margin-left: 10px !important;
+    font-size: 1rem;
+    font-weight: 300;
+    cursor: pointer;
+    outline: 0;
+    width: 200px !important;
+    user-select: none;
+    border-color: rgb(216, 216, 216) rgb(209, 209, 209) rgb(186, 186, 186);
+    border-style: solid;
+    border-radius: 4px;
+    border-width: 1px;
+    background-color: rgb(24, 24, 24);
+    color: hsl(0, 0%, 29%);
+    padding-left: 15px;
+    padding-right: 25px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    /* margin-left: -84%; */
+    border: 1px solid white !important;
+    color: #EE4622 !important;
+    text-align: left;
+    background: rgba(210, 210, 210, 0.25) !important;
+}
+
+.files > label:hover {
+border-color: hsl(0, 0%, 21%);
+background: rgba(210, 210, 210, 0.25) !important;
+}
+  
+.files > label:active {
+background-color: hsl(0, 0%, 96%);
+}
+
+.files > label > i {
+padding-right: 5px;
+}
+
+.inputflex {
+    width: 85% !important;
+    height: 40px !important;
+}
+
+.iconPins {
+    margin-left: 26px !important;
+}
+
+
+.filex {
+    /* justify-content: center; */
+    align-items: center !important;
+  }
+  
+  .filex > input[type='file'] {
+    display: none
+  }
+  
+  .filex > label {
+    text-align: center !important;
+    margin-left: 85%;
+    margin-top: -10px !important;
+    font-size: 1rem;
+    font-weight: 300;
+    cursor: pointer;
+    outline: 0;
+    width: 100px !important;
+    user-select: none;
+    border-color: rgb(216, 216, 216) rgb(209, 209, 209) rgb(186, 186, 186);
+    border-style: solid;
+    border-radius: 4px;
+    border-width: 1px;
+    color: hsl(0, 0%, 29%);
+    padding-left: 15px;
+    padding-right: 25px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    /* margin-left: -84%; */
+    border: 1px solid white !important;
+    color: #B1B1B1 !important;
+    text-align: left;
+    background: rgba(210, 210, 210, 0.25) !important;
+  }
+  
+  .filex > label:hover {
+    background: rgba(210, 210, 210, 0.25) !important;
+  }
+  
+  .filex > label:active {
+    background-color: hsl(0, 0%, 96%);
+  }
+  
+  .filex > label > i {
+    padding-right: 5px;
+  }
+
+.formAddSong {
+    display: flex !important;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.textMusic {
+    margin-left: 8%;
+}
+
+.addSong {
+    width: 350px;
+    background-color: #F58033 !important;
+    border: none !important;
+}
+
+.addSong:focus {
+    box-shadow: none !important;
+    border-color: white !important;
+}
+
+.AttachImage {
+  color: #9d9d9d;
+}
+
+.btnThumbnail input{
+  color: hsl(0, 0%, 29%) !important;
+}

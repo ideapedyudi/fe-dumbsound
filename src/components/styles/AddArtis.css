@@ -1,0 +1,72 @@
+.inputaddmusic {
+    width: 85% !important;
+}
+
+.inputaddmusic:focus {
+    border-color: rgb(214, 214, 214) !important;
+}
+
+.formInputJS {
+    display: flex !important;
+    flex-direction: column !important;
+    align-items: center !important;
+    justify-content: center !important;
+}
+
+.addText {
+    margin-left: 85px;
+    font-size: 18px;
+}
+
+.btnArtis {
+    width: 300px;
+    background-color: #F58033 !important;
+    border: none !important;
+}
+
+.btnArtis:hover {
+    width: 300px;
+    background-color: #F58033;
+    border: none;
+}
+
+.btnArtis:focus {
+    background-color: #F58033;
+    outline: none !important;
+    box-shadow: none !important;
+}
+
+.ant-message-notice-content {
+    background: rgba(210, 210, 210, 0.25) !important;
+    color: white !important;
+}
+
+.anticon-check-circle svg {
+    margin-top: -9px !important;
+}
+
+.inputaddmusic::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+  color: #B1B1B1 !important;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* Firefox */
+input[type=number] {
+  -moz-appearance: textfield;
+}
+
+.selectInput {
+    height: 40px !important;
+    border-radius: 5px;
+    border-color: rgb(214, 214, 214) !important;
+    padding-left: 8px !important;
+}
+
+.selectInput[name=type="Type"] {
+    color: rebeccapurple !important;
+}
