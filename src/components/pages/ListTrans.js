@@ -29,7 +29,7 @@ import '../styles/ListTrans.css'
 import { UserContext } from "../contexts/UserContext";
 import { API } from '../config/api';
 
-const path = "http://localhost:5000/uploads/"
+const path = "https://github.com/ideapedyudi/be-dumbsound/tree/stable/uploads"
 
 export default function ListTrans() {
 
