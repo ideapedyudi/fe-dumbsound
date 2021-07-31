@@ -1,7 +1,7 @@
 import axios from 'axios'
 
 export const API = axios.create({
-    baseURL: "http://localhost:5000/api/dumsound/v1/"
+    baseURL: "https://backend-dumbsound.herokuapp.com/api/dumsound/v1/"
 })
 
 export const setAuthToken = (token) => {
