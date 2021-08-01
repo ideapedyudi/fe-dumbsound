@@ -234,7 +234,7 @@ h4 {
 }
 
 .rhap_progress-section {
-    margin-top: -40px !important;
+    margin-top: -30px !important;
 }
 
 .rhap_main-controls {
@@ -375,7 +375,7 @@ option.decorated option:hover {
 
 @media (max-width : 953px) {
     .rhap_progress-section {
-        margin-top: -2px !important;
+        margin-top: -30px !important;
     }
 
     .rhap_controls-section {
