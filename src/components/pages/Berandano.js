@@ -19,7 +19,7 @@ import { UserContext } from "../contexts/UserContext";
 import { API } from '../config/api';
 
 // ------------ path ------------------
-const path = "https://github.com/ideapedyudi/be-dumbsound/tree/stable/uploads/";
+const path = "https://github.com/ideapedyudi/BE-dumbsound/tree/stable/uploads/";
 
 export default function Berandano() {
 
