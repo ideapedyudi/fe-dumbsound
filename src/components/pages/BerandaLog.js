@@ -34,7 +34,7 @@ import { UserContext } from "../contexts/UserContext";
 import { API } from '../config/api';
 
 // ------------- path -----------------
-const path = "https://github.com/ideapedyudi/be-dumbsound/tree/stable/uploads/";
+const path = "https://raw.githubusercontent.com/ideapedyudi/BE-dumbsound/stable/uploads/";
 
 export default function BerandaLog() {
 
