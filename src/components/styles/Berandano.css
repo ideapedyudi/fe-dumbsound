@@ -234,7 +234,7 @@ h4 {
 }
 
 .rhap_progress-section {
-    margin-top: -40px;
+    margin-top: -40px !important;
 }
 
 .rhap_main-controls {
