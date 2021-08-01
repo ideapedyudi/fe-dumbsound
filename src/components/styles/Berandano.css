@@ -233,10 +233,6 @@ h4 {
     cursor: pointer;
 }
 
-.rhap_progress-section {
-    margin-top: -30px !important;
-}
-
 .rhap_main-controls {
     height: 10px !important;
 }
@@ -286,8 +282,10 @@ h4 {
 }
 
 .rhap_progress-section {
-    margin-top: -5px !important;
+    margin-top: -50px !important;
 }
+
+
 
 .rhap_container {
     height: 70px !important;
