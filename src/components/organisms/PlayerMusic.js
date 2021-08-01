@@ -4,7 +4,7 @@ import AudioPlayer from 'react-h5-audio-player';
 import 'react-h5-audio-player/lib/styles.css';
 
 // path
-const path = "https://github.com/ideapedyudi/be-dumbsound/tree/stable/uploads/";
+const path = "https://raw.githubusercontent.com/ideapedyudi/BE-dumbsound/stable/uploads";
 
 
 function useWindowDimensions() {
