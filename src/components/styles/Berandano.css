@@ -233,6 +233,10 @@ h4 {
     cursor: pointer;
 }
 
+.rhap_controls-section {
+    margin-top: -40px;
+}
+
 .rhap_main-controls {
     height: 10px !important;
 }
